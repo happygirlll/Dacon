@@ -33,7 +33,7 @@ test.csv [파일]
 ID : 샘플 별 고유 ID
 <br><br>
 3.
-baseline7_submission.csv [파일]
+baseline5_submission.csv [파일]
 <br>
 ID : 샘플 별 고유 ID
 <br>
@@ -50,5 +50,10 @@ baseline_1.ipynb
 baseline_4.ipynb
 <br>
 실제 베이스라인 코드
+<br><br>
+<h3>리더보드 최종점수</h3>
+- public 206등 score: 0.25613
+<br>
+- private 676등 score: 0.0015
 
 
