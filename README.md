@@ -33,12 +33,22 @@ test.csv [파일]
 ID : 샘플 별 고유 ID
 <br><br>
 3.
-sample_submission.csv [파일]
+baseline7_submission.csv [파일]
 <br>
 ID : 샘플 별 고유 ID
-
 <br>
 SUBCLASS : 예측한 암종 (학습 데이터와 동일한 26개 존재)
 <br>
 암환자 유전체 변이 정보 데이터 ( 유전체 관련 컬럼 4384개, train.csv와 동일 )
+<br><br>
+4.
+baseline_1.ipynb
+<br>
+데이터분석자료
+<br><br>
+5.
+baseline_4.ipynb
+<br>
+실제 베이스라인 코드
+
 
